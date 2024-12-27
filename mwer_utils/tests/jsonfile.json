@@ -1,0 +1,39 @@
+{
+  "paas": {
+    "alertname": "alertname",
+    "instance": "instance",
+    "severity": "severity",
+    "name": "alertclass",
+    "job": "service",
+    "device": "field1",
+    "fstype": "field2",
+    "mountpoint": "",
+    "consumergroup": "field3",
+    "volume": "",
+    "host": "",
+    "topic": "",
+    "es": "",
+    "code": "",
+    "roles": "",
+    "env": ""
+  },
+  "zxpt": {
+    "alertname": "alertname",
+    "instance": "instance",
+    "group": "service",
+    "severity": "severity",
+    "role": "role",
+    "level": "level",
+    "system_name": "system_name",
+    "env": "env",
+    "status": "service_status",
+    "x": "value",
+    "y": "label_id",
+    "device": "field1",
+    "job": "alertclass",
+    "service": "",
+    "fstype": "field2",
+    "mountpoint": "",
+    "volume": ""
+  }
+}

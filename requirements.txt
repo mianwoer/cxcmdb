@@ -1,0 +1,11 @@
+Django==3.1.5
+django_model_utils==4.0.0
+djangorestframework==3.12.2
+elasticsearch==7.15.0
+matplotlib==3.5.1
+numpy==1.22.2
+openpyxl==3.0.7
+paramiko==2.8.1
+pytest==6.2.1
+pytz==2020.4
+Requests==2.32.3
